@@ -1,0 +1,25 @@
+html, body{
+	height: 100%;
+}
+
+.box{
+	border: 1px red dotted;
+}
+
+.container{
+	display: table;
+	max-width: 400px;
+	height: 100%;
+	min-height: 100%;
+}
+
+.middle{
+	padding-top: 50px;
+	display: table-cell
+}
+
+.profile p{
+	font-size: 12px;
+	text-align: justify;
+}
+
